@@ -1,8 +1,8 @@
 [
   {
     "name": "Gmail",
-    "url": "https://gmail.com",
-    "icon": "https://icons.duckduckgo.com/ip3/gmail.com.ico",
+    "url": "https://mail.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/mail.google.com.ico",
     "slug": "gmail",
     "status": "down",
     "uptime": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-08": 83,
+      "2023-02-08": 696,
       "2023-02-07": 166
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 408,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "time": 445,
+    "timeDay": 445,
+    "timeWeek": 445,
+    "timeMonth": 445,
+    "timeYear": 445,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 238,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "time": 192,
+    "timeDay": 192,
+    "timeWeek": 192,
+    "timeMonth": 192,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   },
   {
@@ -85,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 441,
-    "timeWeek": 441,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "time": 344,
+    "timeDay": 344,
+    "timeWeek": 344,
+    "timeMonth": 344,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -103,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 237,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 229,
+    "timeDay": 229,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   },
   {
@@ -121,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 638,
-    "timeWeek": 638,
-    "timeMonth": 638,
-    "timeYear": 638,
+    "time": 651,
+    "timeDay": 651,
+    "timeWeek": 651,
+    "timeMonth": 651,
+    "timeYear": 651,
     "dailyMinutesDown": {}
   }
 ]

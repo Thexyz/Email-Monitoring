@@ -4,13 +4,20 @@ repo: Email-Monitoring # The name of this repository
 
 sites:
   - name: Gmail
-    url: https://mail.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://gmail.com
+  - name: Outlook
+    url: https://outlook.live.com
+  - name: Yahoo mail
+    url: https://mail.yahoo.com
+  - name: iCloud mail
+    url: https://www.icloud.com/mail
+  - name: Zoho mail
+    url: https://www.zoho.com/mail/
+  - name: Thexyz
+    url: https://webmail.thexyz.com
+  - name: YMOZ
+    url: https://ymoz.com  
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

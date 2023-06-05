@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-05": 97,
+      "2023-06-05": 924,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
@@ -142,18 +142,20 @@
     "url": "https://outlook.live.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 175,
-    "timeWeek": 151,
-    "timeMonth": 166,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "time": 195,
+    "timeDay": 99,
+    "timeWeek": 135,
+    "timeMonth": 161,
+    "timeYear": 195,
+    "dailyMinutesDown": {
+      "2023-06-05": 0
+    }
   },
   {
     "name": "Yahoo mail",

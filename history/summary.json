@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-04": 331,
+      "2023-09-04": 342,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
@@ -323,19 +323,19 @@
     "url": "https://ymoz.com",
     "icon": "https://icons.duckduckgo.com/ip3/ymoz.com.ico",
     "slug": "ymoz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 561,
-    "timeWeek": 771,
-    "timeMonth": 732,
-    "timeYear": 736,
+    "time": 737,
+    "timeDay": 748,
+    "timeWeek": 789,
+    "timeMonth": 738,
+    "timeYear": 737,
     "dailyMinutesDown": {
-      "2023-09-04": 0
+      "2023-09-04": 12
     }
   }
 ]

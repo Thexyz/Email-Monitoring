@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-24": 161,
+      "2023-09-25": 65,
+      "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -255,18 +256,16 @@
     "slug": "outlook",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 219,
-    "timeWeek": 217,
-    "timeMonth": 213,
-    "timeYear": 226,
-    "dailyMinutesDown": {
-      "2023-09-24": 13
-    }
+    "time": 227,
+    "timeDay": 353,
+    "timeWeek": 250,
+    "timeMonth": 220,
+    "timeYear": 227,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Yahoo mail",
@@ -279,11 +278,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 53,
+    "time": 273,
+    "timeDay": 65,
     "timeWeek": 165,
-    "timeMonth": 150,
-    "timeYear": 274,
+    "timeMonth": 149,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   },
   {
@@ -297,11 +296,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 189,
-    "timeWeek": 298,
-    "timeMonth": 382,
-    "timeYear": 352,
+    "time": 351,
+    "timeDay": 203,
+    "timeWeek": 232,
+    "timeMonth": 332,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   },
   {
@@ -316,9 +315,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 471,
-    "timeDay": 306,
-    "timeWeek": 346,
-    "timeMonth": 450,
+    "timeDay": 519,
+    "timeWeek": 371,
+    "timeMonth": 451,
     "timeYear": 471,
     "dailyMinutesDown": {}
   },
@@ -333,11 +332,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 806,
-    "timeWeek": 556,
-    "timeMonth": 381,
-    "timeYear": 328,
+    "time": 327,
+    "timeDay": 160,
+    "timeWeek": 463,
+    "timeMonth": 377,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -352,9 +351,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 943,
-    "timeWeek": 818,
-    "timeMonth": 840,
+    "timeDay": 642,
+    "timeWeek": 778,
+    "timeMonth": 842,
     "timeYear": 752,
     "dailyMinutesDown": {}
   }

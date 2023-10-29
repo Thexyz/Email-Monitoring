@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-29": 68,
+      "2023-10-29": 347,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
@@ -324,9 +324,9 @@
     "url": "https://www.icloud.com/mail",
     "icon": "https://icons.duckduckgo.com/ip3/www.icloud.com.ico",
     "slug": "i-cloud-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -335,7 +335,9 @@
     "timeWeek": 184,
     "timeMonth": 267,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-29": 0
+    }
   },
   {
     "name": "Zoho mail",

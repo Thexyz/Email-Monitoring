@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-05": 68,
+      "2024-01-05": 469,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
@@ -363,7 +363,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 216,
+    "timeDay": 217,
     "timeWeek": 165,
     "timeMonth": 205,
     "timeYear": 219,
@@ -446,9 +446,9 @@
     "url": "https://ymoz.com",
     "icon": "https://icons.duckduckgo.com/ip3/ymoz.com.ico",
     "slug": "ymoz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -458,6 +458,7 @@
     "timeMonth": 761,
     "timeYear": 755,
     "dailyMinutesDown": {
+      "2024-01-05": 0,
       "2023-12-01": 96,
       "2023-11-30": 0,
       "2023-09-29": 116

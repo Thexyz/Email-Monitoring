@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-05": 66,
+      "2024-02-05": 442,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -461,9 +461,9 @@
     "url": "https://webmail.thexyz.com",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.thexyz.com.ico",
     "slug": "thexyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -472,7 +472,9 @@
     "timeWeek": 331,
     "timeMonth": 349,
     "timeYear": 341,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-05": 0
+    }
   },
   {
     "name": "YMOZ",

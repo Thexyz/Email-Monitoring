@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-09": 66,
+      "2024-04-10": 65,
+      "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
@@ -379,8 +380,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
-    "time": 237,
-    "timeDay": 1630,
-    "timeWeek": 1337,
-    "timeMonth": 483,
-    "timeYear": 239,
+    "time": 239,
+    "timeDay": 869,
+    "timeWeek": 1209,
+    "timeMonth": 500,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2024-03-26": 110
     }
@@ -415,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 74,
-    "timeWeek": 51,
-    "timeMonth": 104,
+    "timeDay": 43,
+    "timeWeek": 52,
+    "timeMonth": 98,
     "timeYear": 171,
     "dailyMinutesDown": {}
   },
@@ -433,10 +433,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 320,
-    "timeDay": 116,
-    "timeWeek": 244,
-    "timeMonth": 328,
-    "timeYear": 302,
+    "timeDay": 288,
+    "timeWeek": 218,
+    "timeMonth": 334,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2024-02-29": 26,
       "2024-02-06": 21,
@@ -455,10 +455,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 456,
-    "timeDay": 181,
-    "timeWeek": 307,
-    "timeMonth": 339,
-    "timeYear": 452,
+    "timeDay": 216,
+    "timeWeek": 286,
+    "timeMonth": 333,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   },
   {
@@ -472,10 +472,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 331,
-    "timeDay": 210,
-    "timeWeek": 221,
-    "timeMonth": 263,
+    "time": 330,
+    "timeDay": 121,
+    "timeWeek": 199,
+    "timeMonth": 259,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2024-02-05": 449
@@ -487,15 +487,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ymoz.com.ico",
     "slug": "ymoz",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 744,
-    "timeDay": 612,
-    "timeWeek": 619,
-    "timeMonth": 688,
+    "timeDay": 666,
+    "timeWeek": 613,
+    "timeMonth": 687,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2024-01-29": 351,

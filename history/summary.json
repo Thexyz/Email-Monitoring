@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-26": 72,
+      "2024-06-26": 384,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -425,18 +425,20 @@
     "url": "https://mail.yahoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/mail.yahoo.com.ico",
     "slug": "yahoo-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 89,
+    "timeDay": 129,
     "timeWeek": 166,
     "timeMonth": 175,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-26": 0
+    }
   },
   {
     "name": "iCloud mail",

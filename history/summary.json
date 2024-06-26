@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-26": 384,
+      "2024-06-26": 401,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -425,19 +425,19 @@
     "url": "https://mail.yahoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/mail.yahoo.com.ico",
     "slug": "yahoo-mail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 129,
-    "timeWeek": 166,
-    "timeMonth": 175,
+    "time": 192,
+    "timeDay": 132,
+    "timeWeek": 163,
+    "timeMonth": 174,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-06-26": 0
+      "2024-06-26": 17
     }
   },
   {

@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-03": 1251,
+      "2024-08-03": 1401,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -388,16 +388,16 @@
     "url": "https://outlook.live.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "85.36%",
-    "uptimeWeek": "90.03%",
-    "uptimeMonth": "93.90%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "86.85%",
+    "uptimeWeek": "90.39%",
+    "uptimeMonth": "93.95%",
+    "uptimeYear": "99.50%",
     "time": 479,
-    "timeDay": 360,
-    "timeWeek": 506,
-    "timeMonth": 525,
+    "timeDay": 361,
+    "timeWeek": 508,
+    "timeMonth": 524,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2024-08-03": 190,
@@ -416,8 +416,7 @@
       "2024-07-21": 116,
       "2024-07-20": 122,
       "2024-07-19": 156,
-      "2024-07-18": 212,
-      "2024-07-17": 22
+      "2024-07-18": 212
     }
   },
   {
@@ -432,10 +431,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 52,
+    "timeDay": 0,
     "timeWeek": 85,
     "timeMonth": 155,
-    "timeYear": 143,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2024-06-26": 70
     }
@@ -452,7 +451,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 287,
-    "timeDay": 135,
+    "timeDay": 0,
     "timeWeek": 218,
     "timeMonth": 236,
     "timeYear": 277,
@@ -474,10 +473,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 425,
-    "timeDay": 292,
+    "timeDay": 0,
     "timeWeek": 327,
     "timeMonth": 325,
-    "timeYear": 410,
+    "timeYear": 409,
     "dailyMinutesDown": {}
   },
   {
@@ -492,7 +491,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 326,
-    "timeDay": 81,
+    "timeDay": 0,
     "timeWeek": 287,
     "timeMonth": 311,
     "timeYear": 328,
@@ -514,7 +513,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.88%",
     "time": 735,
-    "timeDay": 670,
+    "timeDay": 0,
     "timeWeek": 729,
     "timeMonth": 731,
     "timeYear": 738,

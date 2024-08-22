@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-22": 1224,
+      "2024-08-22": 1237,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -388,17 +388,17 @@
     "url": "https://outlook.live.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "93.81%",
+    "uptimeDay": "93.80%",
     "uptimeWeek": "88.89%",
-    "uptimeMonth": "92.76%",
+    "uptimeMonth": "92.81%",
     "uptimeYear": "99.40%",
     "time": 504,
-    "timeDay": 654,
-    "timeWeek": 565,
+    "timeDay": 656,
+    "timeWeek": 562,
     "timeMonth": 533,
-    "timeYear": 526,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2024-08-22": 49,
       "2024-08-21": 223,
@@ -417,7 +417,7 @@
       "2024-08-08": 103,
       "2024-08-07": 177,
       "2024-08-06": 193,
-      "2024-08-05": 219
+      "2024-08-05": 199
     }
   },
   {

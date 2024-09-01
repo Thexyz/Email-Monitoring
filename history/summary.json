@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-01": 524,
+      "2024-09-01": 535,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
@@ -470,19 +470,19 @@
     "url": "https://www.zoho.com/mail/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zoho.com.ico",
     "slug": "zoho-mail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 418,
-    "timeDay": 279,
-    "timeWeek": 360,
+    "timeDay": 314,
+    "timeWeek": 359,
     "timeMonth": 345,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2024-09-01": 0
+      "2024-09-01": 11
     }
   },
   {

@@ -1,7 +1,7 @@
 url: https://outlook.live.com
-status: up
-code: 200
-responseTime: 1765
-lastUpdated: 2024-11-24T08:48:30.063Z
+status: down
+code: 417
+responseTime: 101
+lastUpdated: 2024-11-24T11:25:07.253Z
 startTime: 2023-02-08T01:18:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>

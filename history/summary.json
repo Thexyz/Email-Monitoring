@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 1433,
+      "2025-01-28": 76,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -379,8 +380,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440
+      "2024-01-30": 1440
     }
   },
   {
@@ -388,19 +388,20 @@
     "url": "https://outlook.live.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
-    "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "79.51%",
-    "uptimeWeek": "84.43%",
-    "uptimeMonth": "93.17%",
-    "uptimeYear": "99.43%",
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "74.37%",
+    "uptimeWeek": "83.60%",
+    "uptimeMonth": "92.98%",
+    "uptimeYear": "99.41%",
     "time": 592,
-    "timeDay": 426,
-    "timeWeek": 648,
+    "timeDay": 479,
+    "timeWeek": 650,
     "timeMonth": 689,
-    "timeYear": 607,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2025-01-27": 296,
+      "2025-01-28": 76,
+      "2025-01-27": 303,
       "2025-01-26": 192,
       "2025-01-25": 249,
       "2025-01-24": 254,
@@ -519,8 +520,7 @@
     "timeYear": 725,
     "dailyMinutesDown": {
       "2024-08-27": 71,
-      "2024-07-21": 22,
-      "2024-01-29": 351
+      "2024-07-21": 22
     }
   }
 ]

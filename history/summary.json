@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-15": 1427,
+      "2025-02-16": 0,
+      "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -379,8 +380,7 @@
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
-      "2024-02-18": 1440,
-      "2024-02-17": 1440
+      "2024-02-18": 1440
     }
   },
   {
@@ -388,18 +388,19 @@
     "url": "https://outlook.live.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "92.42%",
-    "uptimeWeek": "87.55%",
-    "uptimeMonth": "92.44%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "92.41%",
+    "uptimeWeek": "87.54%",
+    "uptimeMonth": "92.52%",
+    "uptimeYear": "99.38%",
     "time": 599,
-    "timeDay": 658,
-    "timeWeek": 733,
-    "timeMonth": 671,
+    "timeDay": 627,
+    "timeWeek": 729,
+    "timeMonth": 670,
     "timeYear": 615,
     "dailyMinutesDown": {
+      "2025-02-16": 0,
       "2025-02-15": 109,
       "2025-02-14": 311,
       "2025-02-13": 103,
@@ -416,7 +417,7 @@
       "2025-02-02": 146,
       "2025-02-01": 198,
       "2025-01-31": 212,
-      "2025-01-30": 177
+      "2025-01-30": 144
     }
   },
   {
@@ -483,19 +484,19 @@
     "url": "https://webmail.thexyz.com",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.thexyz.com.ico",
     "slug": "thexyz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 322,
-    "timeDay": 605,
-    "timeWeek": 248,
-    "timeMonth": 255,
+    "timeDay": 471,
+    "timeWeek": 259,
+    "timeMonth": 257,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-02-15": 0,
+      "2025-02-15": 13,
       "2025-01-06": 25,
       "2024-06-04": 66,
       "2024-04-30": 115

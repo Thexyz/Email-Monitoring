@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-17": 41,
+      "2025-02-17": 87,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -390,7 +390,7 @@
     "slug": "outlook",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "85.56%",
+    "uptimeDay": "88.78%",
     "uptimeWeek": "86.17%",
     "uptimeMonth": "92.37%",
     "uptimeYear": "99.36%",

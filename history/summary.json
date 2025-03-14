@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 681,
+      "2025-03-14": 735,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -388,16 +388,16 @@
     "url": "https://outlook.live.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "85.40%",
+    "uptimeDay": "85.39%",
     "uptimeWeek": "88.64%",
-    "uptimeMonth": "93.28%",
+    "uptimeMonth": "93.33%",
     "uptimeYear": "99.44%",
     "time": 594,
-    "timeDay": 399,
-    "timeWeek": 409,
-    "timeMonth": 471,
+    "timeDay": 384,
+    "timeWeek": 407,
+    "timeMonth": 470,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2025-03-14": 74,
@@ -417,7 +417,7 @@
       "2025-02-28": 191,
       "2025-02-27": 164,
       "2025-02-26": 211,
-      "2025-02-25": 145
+      "2025-02-25": 125
     }
   },
   {

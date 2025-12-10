@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-09": 594,
+      "2025-12-10": 112,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -379,8 +380,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "75.74%",
+    "uptime": "75.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.19%",
+    "uptimeYear": "31.01%",
     "time": 556,
-    "timeDay": 156,
-    "timeWeek": 201,
-    "timeMonth": 122,
-    "timeYear": 550,
+    "timeDay": 69,
+    "timeWeek": 163,
+    "timeMonth": 120,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2025-12-09": 594,
+      "2025-12-10": 112,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -681,10 +682,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 477,
-    "timeWeek": 175,
+    "timeDay": 89,
+    "timeWeek": 165,
     "timeMonth": 174,
-    "timeYear": 175,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -698,11 +699,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 191,
-    "timeWeek": 182,
+    "time": 169,
+    "timeDay": 164,
+    "timeWeek": 194,
     "timeMonth": 159,
-    "timeYear": 152,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -712,18 +713,16 @@
     "slug": "zoho-mail",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 455,
-    "timeWeek": 336,
+    "time": 397,
+    "timeDay": 314,
+    "timeWeek": 309,
     "timeMonth": 383,
     "timeYear": 395,
-    "dailyMinutesDown": {
-      "2025-12-09": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Thexyz",
@@ -737,9 +736,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 457,
-    "timeWeek": 253,
-    "timeMonth": 341,
+    "timeDay": 189,
+    "timeWeek": 241,
+    "timeMonth": 342,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2025-01-06": 25
@@ -757,10 +756,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 828,
-    "timeDay": 836,
-    "timeWeek": 757,
+    "timeDay": 701,
+    "timeWeek": 741,
     "timeMonth": 802,
-    "timeYear": 859,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2025-09-01": 51,
       "2025-08-30": 19,

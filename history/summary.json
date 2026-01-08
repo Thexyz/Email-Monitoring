@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1407,
+      "2026-01-08": 116,
+      "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
@@ -379,8 +380,7 @@
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
-      "2025-01-09": 1440,
-      "2025-01-08": 1440
+      "2025-01-09": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "73.64%",
+    "uptime": "73.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.09%",
+    "uptimeYear": "23.06%",
     "time": 516,
     "timeDay": 173,
     "timeWeek": 165,
     "timeMonth": 148,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2026-01-07": 1408,
+      "2026-01-08": 116,
+      "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
@@ -779,9 +780,9 @@
     "slug": "ymoz",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "99.87%",
     "time": 821,
     "timeDay": 745,
@@ -789,7 +790,6 @@
     "timeMonth": 799,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2026-01-07": 13,
       "2026-01-04": 16,
       "2026-01-03": 44,
       "2025-12-22": 48,

@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 150,
+      "2026-02-16": 454,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -389,18 +389,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "71.03%",
+    "uptime": "71.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.37%",
+    "uptimeYear": "12.32%",
     "time": 406,
     "timeDay": 73,
     "timeWeek": 77,
     "timeMonth": 97,
-    "timeYear": 366,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2026-02-16": 150,
+      "2026-02-16": 455,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -781,9 +781,9 @@
     "url": "https://www.zoho.com/mail/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zoho.com.ico",
     "slug": "zoho-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -792,7 +792,9 @@
     "timeWeek": 334,
     "timeMonth": 409,
     "timeYear": 396,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-16": 0
+    }
   },
   {
     "name": "Thexyz",

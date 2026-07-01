@@ -8,7 +8,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 234,
+      "2026-07-01": 249,
+      "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -379,8 +380,7 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
-      "2025-07-02": 1440,
-      "2025-07-01": 1440
+      "2025-07-02": 1440
     }
   },
   {
@@ -389,10 +389,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "63.34%",
+    "uptime": "63.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 219,
     "timeDay": 0,
@@ -400,7 +400,8 @@
     "timeMonth": 83,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2026-06-30": 234,
+      "2026-07-01": 249,
+      "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -763,8 +764,7 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
-      "2025-07-02": 1440,
-      "2025-07-01": 1440
+      "2025-07-02": 1440
     }
   },
   {
@@ -781,8 +781,8 @@
     "time": 179,
     "timeDay": 0,
     "timeWeek": 105,
-    "timeMonth": 175,
-    "timeYear": 172,
+    "timeMonth": 178,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
@@ -799,7 +799,7 @@
     "time": 156,
     "timeDay": 0,
     "timeWeek": 152,
-    "timeMonth": 132,
+    "timeMonth": 135,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2025-12-25": 25
@@ -819,7 +819,7 @@
     "time": 427,
     "timeDay": 0,
     "timeWeek": 369,
-    "timeMonth": 324,
+    "timeMonth": 329,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2026-02-16": 33,
@@ -842,8 +842,8 @@
     "time": 329,
     "timeDay": 0,
     "timeWeek": 286,
-    "timeMonth": 284,
-    "timeYear": 324,
+    "timeMonth": 289,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -860,7 +860,7 @@
     "time": 846,
     "timeDay": 0,
     "timeWeek": 657,
-    "timeMonth": 892,
+    "timeMonth": 903,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2025-07-12": 28,

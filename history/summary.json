@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 87,
+      "2026-07-09": 212,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "62.89%",
+    "uptime": "62.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,7 @@
     "timeMonth": 93,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2026-07-09": 87,
+      "2026-07-09": 213,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -852,11 +852,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ymoz.com.ico",
     "slug": "ymoz",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.88%",
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.72%",
     "time": 846,
     "timeDay": 923,
     "timeWeek": 742,
@@ -883,7 +883,7 @@
       "2026-05-08": 187,
       "2026-05-20": 91,
       "2026-05-23": 70,
-      "2026-07-09": 0
+      "2026-07-09": 126
     }
   }
 ]

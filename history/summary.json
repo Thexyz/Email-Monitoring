@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-19": 176,
+      "2026-07-20": 1428,
+      "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -379,8 +380,7 @@
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
-      "2025-07-21": 1440,
-      "2025-07-20": 1440
+      "2025-07-21": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "62.38%",
+    "uptime": "62.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 187,
-    "timeDay": 86,
+    "timeDay": 0,
     "timeWeek": 95,
     "timeMonth": 100,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2026-07-19": 176,
+      "2026-07-20": 1428,
+      "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -763,8 +764,7 @@
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
-      "2025-07-21": 1440,
-      "2025-07-20": 1440
+      "2025-07-21": 1440
     }
   },
   {
@@ -779,7 +779,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 192,
+    "timeDay": 0,
     "timeWeek": 157,
     "timeMonth": 151,
     "timeYear": 171,
@@ -797,7 +797,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 267,
+    "timeDay": 0,
     "timeWeek": 262,
     "timeMonth": 170,
     "timeYear": 161,
@@ -817,10 +817,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 426,
-    "timeDay": 267,
+    "timeDay": 0,
     "timeWeek": 321,
     "timeMonth": 316,
-    "timeYear": 448,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2026-02-16": 33,
       "2026-03-28": 46,
@@ -840,7 +840,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 325,
+    "timeDay": 0,
     "timeWeek": 214,
     "timeMonth": 261,
     "timeYear": 317,
@@ -851,17 +851,17 @@
     "url": "https://ymoz.com",
     "icon": "https://icons.duckduckgo.com/ip3/ymoz.com.ico",
     "slug": "ymoz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.71%",
     "time": 847,
-    "timeDay": 871,
+    "timeDay": 0,
     "timeWeek": 747,
     "timeMonth": 750,
-    "timeYear": 879,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2025-08-30": 19,
       "2025-09-01": 51,
@@ -882,7 +882,8 @@
       "2026-05-08": 187,
       "2026-05-20": 91,
       "2026-05-23": 70,
-      "2026-07-09": 248
+      "2026-07-09": 248,
+      "2026-07-20": 0
     }
   }
 ]

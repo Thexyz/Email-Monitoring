@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 792,
+      "2026-07-22": 917,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 101,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2026-07-22": 792,
+      "2026-07-22": 917,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -851,16 +851,16 @@
     "url": "https://ymoz.com",
     "icon": "https://icons.duckduckgo.com/ip3/ymoz.com.ico",
     "slug": "ymoz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.70%",
+    "uptimeDay": "91.34%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.68%",
     "time": 848,
-    "timeDay": 0,
-    "timeWeek": 854,
-    "timeMonth": 752,
+    "timeDay": 939,
+    "timeWeek": 875,
+    "timeMonth": 764,
     "timeYear": 881,
     "dailyMinutesDown": {
       "2025-08-30": 19,
@@ -885,7 +885,7 @@
       "2026-07-09": 248,
       "2026-07-21": 3,
       "2026-07-20": 12,
-      "2026-07-22": 0
+      "2026-07-22": 125
     }
   }
 ]

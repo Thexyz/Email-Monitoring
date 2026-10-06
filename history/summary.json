@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-05": 1104,
+      "2026-10-06": 12,
+      "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
@@ -379,8 +380,7 @@
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
-      "2025-10-07": 1440,
-      "2025-10-06": 1440
+      "2025-10-07": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "58.71%",
+    "uptime": "58.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -398,9 +398,10 @@
     "timeDay": 0,
     "timeWeek": 76,
     "timeMonth": 80,
-    "timeYear": 146,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2026-10-05": 1104,
+      "2026-10-06": 13,
+      "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
@@ -763,8 +764,7 @@
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
-      "2025-10-07": 1440,
-      "2025-10-06": 1440
+      "2025-10-07": 1440
     }
   },
   {
@@ -820,7 +820,7 @@
     "timeDay": 0,
     "timeWeek": 121,
     "timeMonth": 232,
-    "timeYear": 428,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2026-02-16": 33,
       "2026-03-28": 46,
@@ -843,7 +843,7 @@
     "timeDay": 0,
     "timeWeek": 386,
     "timeMonth": 315,
-    "timeYear": 323,
+    "timeYear": 324,
     "dailyMinutesDown": {}
   },
   {
@@ -851,16 +851,16 @@
     "url": "https://ymoz.com",
     "icon": "https://icons.duckduckgo.com/ip3/ymoz.com.ico",
     "slug": "ymoz",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "75.83%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.30%",
     "time": 883,
-    "timeDay": 0,
-    "timeWeek": 876,
-    "timeMonth": 848,
+    "timeDay": 910,
+    "timeWeek": 885,
+    "timeMonth": 853,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2025-12-14": 40,
@@ -891,7 +891,8 @@
       "2026-08-27": 188,
       "2026-08-29": 576,
       "2026-08-30": 509,
-      "2026-10-05": 0
+      "2026-10-06": 12,
+      "2026-10-05": 336
     }
   }
 ]

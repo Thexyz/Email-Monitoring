@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-27": 477,
+      "2026-11-28": 493,
+      "2026-11-27": 1440,
       "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
@@ -379,8 +380,7 @@
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
-      "2025-11-29": 1440,
-      "2025-11-28": 1440
+      "2025-11-29": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.live.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "56.49%",
+    "uptime": "56.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -397,10 +397,11 @@
     "time": 149,
     "timeDay": 0,
     "timeWeek": 80,
-    "timeMonth": 96,
+    "timeMonth": 97,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2026-11-27": 477,
+      "2026-11-28": 493,
+      "2026-11-27": 1440,
       "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
@@ -763,8 +764,7 @@
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
-      "2025-11-29": 1440,
-      "2025-11-28": 1440
+      "2025-11-29": 1440
     }
   },
   {
@@ -781,8 +781,8 @@
     "time": 172,
     "timeDay": 0,
     "timeWeek": 92,
-    "timeMonth": 151,
-    "timeYear": 176,
+    "timeMonth": 157,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -799,7 +799,7 @@
     "time": 160,
     "timeDay": 0,
     "timeWeek": 99,
-    "timeMonth": 194,
+    "timeMonth": 195,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2025-12-25": 25
@@ -819,7 +819,7 @@
     "time": 416,
     "timeDay": 0,
     "timeWeek": 134,
-    "timeMonth": 197,
+    "timeMonth": 200,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2026-02-16": 33,
@@ -842,8 +842,8 @@
     "time": 320,
     "timeDay": 0,
     "timeWeek": 304,
-    "timeMonth": 284,
-    "timeYear": 323,
+    "timeMonth": 291,
+    "timeYear": 324,
     "dailyMinutesDown": {}
   },
   {
@@ -860,7 +860,7 @@
     "time": 878,
     "timeDay": 0,
     "timeWeek": 781,
-    "timeMonth": 719,
+    "timeMonth": 725,
     "timeYear": 828,
     "dailyMinutesDown": {
       "2025-12-14": 40,
